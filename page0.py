@@ -3,3 +3,4 @@ import pandas as pd
 import streamlit as st 
 
 st.title('Intro')
+tab1, tab2 = st.tabs(2)
